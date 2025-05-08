@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kiberbez_FirstSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b609d5304873139e9dda84c74cd743d5726c3678")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e295888969936cc9fc6e6e89c1ef093d9ce5364")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kiberbez_FirstSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kiberbez_FirstSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

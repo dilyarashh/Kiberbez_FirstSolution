@@ -16,3 +16,4 @@
 /Users/dilararasidovna/Desktop/Kiberbez_FirstSolution/Kiberbez_FirstSolution/obj/Debug/net9.0/Kiberbez_FirstSolution.pdb
 /Users/dilararasidovna/Desktop/Kiberbez_FirstSolution/Kiberbez_FirstSolution/obj/Debug/net9.0/Kiberbez_FirstSolution.genruntimeconfig.cache
 /Users/dilararasidovna/Desktop/Kiberbez_FirstSolution/Kiberbez_FirstSolution/obj/Debug/net9.0/ref/Kiberbez_FirstSolution.dll
+/Users/dilararasidovna/Desktop/Kiberbez_FirstSolution/Kiberbez_FirstSolution/obj/Debug/net9.0/Kiberbez_FirstSolution.sourcelink.json

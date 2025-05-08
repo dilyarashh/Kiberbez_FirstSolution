@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiberbez_FirstSolution", "Kiberbez_FirstSolution\Kiberbez_FirstSolution.csproj", "{FC6B0191-9D2E-414D-8E6B-B24EA55261D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kiberbez_SecondSolution", "Kiberbez_SecondSolution\Kiberbez_SecondSolution.csproj", "{77952E6D-D056-41C4-BCAE-7592056A5B03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{FC6B0191-9D2E-414D-8E6B-B24EA55261D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC6B0191-9D2E-414D-8E6B-B24EA55261D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC6B0191-9D2E-414D-8E6B-B24EA55261D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77952E6D-D056-41C4-BCAE-7592056A5B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77952E6D-D056-41C4-BCAE-7592056A5B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77952E6D-D056-41C4-BCAE-7592056A5B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77952E6D-D056-41C4-BCAE-7592056A5B03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
